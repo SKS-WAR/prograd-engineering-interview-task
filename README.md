@@ -46,6 +46,7 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 - A link to a GitHub repo is ideal
 - If the best example of your work is something you've done at a company, it's okay to link to a live deployed version
 - If you can't link to anything, a screenshot is also fine
+- Add 10-15 unit test cases to the project that you are planning to share. 
 
 **Answer**: _[Add a link to repo/website/screenshot here]_
 
