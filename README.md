@@ -25,7 +25,7 @@ The reaction data consists of four columns:
 
 **Task**: The similarity score between two users is the number of jobs which they both like. Find the two users with the highest similarity.
 
-**Answer**: _[Enter the two user IDs & their similarity score here]_
+**Answer**: _[userId : 1791 and 5193 , Highest Score : 181]_
 
 ### Task 2
 
@@ -33,7 +33,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 **Task**: The similarity score between two companies is the number of users who like at least one job at both companies. Using both the `reactions.csv` and `jobs.csv` data, find the two companies with the highest similarity score.
 
-**Answer**: _[Enter the two company IDs & their similarity score here]_
+**Answer**: _[companiesId : 46 and 92, Highest Score : 104]_
 
 ### Task 3
 
@@ -48,7 +48,7 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 - If you can't link to anything, a screenshot is also fine
 - Add 10-15 unit test cases to the project that you are planning to share. 
 
-**Answer**: _[Add a link to repo/website/screenshot here]_
+**Answer**: _[http://aluminnote.herokuapp.com/ , https://github.com/SKS-WAR/Hospital-Management-System , https://github.com/SKS-WAR/SocioHub]_
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
@@ -58,8 +58,8 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 
 Once you've completed all of the above tasks, make sure:
 
-- [ ] You've committed all of the code used, and your edited answers, to the `main` branch
-- [ ] You've pushed the changes to your repo
-- [ ] You add `Akarsh Agrawal` as contributors for your personal repo, and send a link to the repo in an email or ProGrad message to us
+- [X] You've committed all of the code used, and your edited answers, to the `main` branch
+- [X] You've pushed the changes to your repo
+- [X] You add `Akarsh Agrawal` as contributors for your personal repo, and send a link to the repo in an email or ProGrad message to us
 
 Good luck!
